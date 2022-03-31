@@ -99,5 +99,5 @@ while True:
     plt.sleep(0.0001)
     plt.show()
     print("=" * 125 +"\n")
-    time.sleep(10)
+    time.sleep(3)
     
