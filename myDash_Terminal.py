@@ -51,7 +51,7 @@ while True:
         plt.subplots(1,4)
         
         logo("Mercado Bitcoin")
-        print(Panel.fit("Terminal Dashboard. \nDesenvolvido por: Vinícius Azevedo."))
+        print(Panel.fit("Cripto Terminal Dashboard. \nDesenvolvido por: Vinícius Azevedo."))
         
         #Grafico BTC
         plt.subplot(1,1)
