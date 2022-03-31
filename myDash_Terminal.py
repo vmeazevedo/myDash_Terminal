@@ -6,6 +6,7 @@ from rich import print
 from utils.logo import logo
 from utils.requisição import buscar_dados
 
+
 locale.setlocale(locale.LC_MONETARY, "pt_BR.UTF-8")
 
 

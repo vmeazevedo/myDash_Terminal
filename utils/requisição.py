@@ -1,6 +1,5 @@
 import requests
 import json
-
 from utils.consts import MENSAGEM_ERRO_CONSULTA, LINK_API
 
 
