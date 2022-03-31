@@ -14,6 +14,7 @@ Você pode realizar doações de qualquer banco para minha chave Pix Itaú: **86
 
 
 ### Terminal:
+![terminal-dash](https://user-images.githubusercontent.com/40063504/161144897-a821e6ba-41cd-4ab6-9cb7-ae0a6b1f3914.png)
 
 
 ## Requirements
