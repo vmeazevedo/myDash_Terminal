@@ -5,8 +5,8 @@ Dashboard de monitoração de valores de criptos via terminal através da API do
   
 ![Supported Python Versions](https://img.shields.io/pypi/pyversions/rich/10.11.0) [![Twitter Follow](https://img.shields.io/twitter/follow/vmeazevedo.svg?style=social)](https://twitter.com/vmeazevedo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinícius_Azevedo%20-blue)](https://www.linkedin.com/in/vin%C3%ADcius-azevedo-45180ab2/)
 
-![Star](https://img.shields.io/github/stars/vmeazevedo/myCrypto_MercadoBitcoin?style=social)
-![Fork](https://img.shields.io/github/forks/vmeazevedo/myCrypto_MercadoBitcoin?label=Fork&style=social)
+![Star](https://img.shields.io/github/stars/vmeazevedo/myDash_Terminal?style=social)
+![Fork](https://img.shields.io/github/forks/vmeazevedo/myDash_Terminal?label=Fork&style=social)
    
 ## Apoie esse projeto! 💵💵
 Olá!
