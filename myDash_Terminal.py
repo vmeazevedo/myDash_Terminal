@@ -32,7 +32,7 @@ def main():
         list_xrp.append(xrp)
         list_paxg.append(paxg)
 
-        # Contador para plotar no gráfico os ultimos 50 registros
+        # Contador para plotar no gráfico os ultimos 80 registros
         cnt = cnt + 1
         if cnt > 80:
             list_btc.pop(0)
