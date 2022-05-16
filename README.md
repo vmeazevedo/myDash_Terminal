@@ -38,3 +38,9 @@ pip install -r requirements.txt
 2. Execute o arquivo python ``myDash-Terminal.py``.
 
 3. A partir desse momento o monitoramento se inicia.
+
+## Exemplo de utilização com docker
+
+```
+$ docker build -t mydash_terminal . && docker run -it  mydash_terminal
+```
